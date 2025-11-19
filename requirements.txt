@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-plotly
-who-growth-charts
-scipy
+streamlit==1.38.0
+pandas==2.2.2
+numpy==2.0.1
+plotly==5.22.0
+scipy==1.14.1
